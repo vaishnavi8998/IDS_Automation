@@ -1,0 +1,9 @@
+com\ids\automation\TestCases\TC_LoginDDT_001.class
+com\ids\automation\TestCases\TC_LoginTest_001.class
+com\ids\automation\utilities\XLUtils.class
+com\ids\automation\pageObjects\OPDPage.class
+com\ids\automation\TestCases\TC_OPDNewDDT_01.class
+com\ids\automation\TestCases\BaseClass.class
+com\ids\automation\utilities\ReadConfig.class
+com\ids\automation\pageObjects\LoginPage.class
+com\ids\automation\utilities\Reporting.class

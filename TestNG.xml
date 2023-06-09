@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <suite name="IDS Suite"> 
+   
+   <Listeners>
+     <Listener class-name="com.netbanking.utilities.Reporting"/>
+  </Listeners>
+  
+   <test name="SPANDAN ISD" >
+    <parameter name="browser" value="chrome"/>
+    <classes>
+     <!--<class name="com.ids.automation.TestCases.TC_LoginTest_001" /> -->
+ <class name="com.ids.automation.TestCases.TC_LoginDDT_001" /> >
+   <class name="com.ids.automation.TestCases.TC_OPDNewDDT_01" />  > 
+
+</classes>
+   
+    </test>
+   
+   </suite> 
